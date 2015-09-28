@@ -1,0 +1,15 @@
+{
+  "name": "ng-electron",
+  "version": "0.0.1",
+  "description": "Angular app with Electron",
+  "authors": [
+    "ktk10191 <http://github.com/ktk10191>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-material": "~0.11.1",
+    "angular-route": "~1.4.6",
+    "bootstrap": "~3.3.5"
+  }
+}

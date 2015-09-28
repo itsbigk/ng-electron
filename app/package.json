@@ -1,0 +1,14 @@
+{
+  "name": "ng-electron",
+  "version": "0.0.1",
+  "description": "Angular with Electron",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Knott",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
